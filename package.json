@@ -1,0 +1,19 @@
+{
+  "name": "esempio_pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessioiaretti/ESEMPIO_PUG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessioiaretti/ESEMPIO_PUG/issues"
+  },
+  "homepage": "https://github.com/alessioiaretti/ESEMPIO_PUG#readme"
+}
