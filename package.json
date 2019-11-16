@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alessioiaretti/ESEMPIO_PUG/issues"
   },
-  "homepage": "https://github.com/alessioiaretti/ESEMPIO_PUG#readme"
+  "homepage": "https://github.com/alessioiaretti/ESEMPIO_PUG#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
